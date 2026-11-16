@@ -1,6 +1,6 @@
 # firedial-app.github.io
 
-Homepage and privacy policy for [FireDial](https://github.com/sebastianstucke87/FireDial), served at https://firedial-app.github.io.
+Homepage and privacy policy for [FireDial](https://github.com/sebastianstucke87/FireDial), served at https://firedial.org/.
 
 ## Build
 
